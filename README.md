@@ -15,3 +15,7 @@ https://itecnote.com/tecnote/mysql-index-on-first-part-of-string/
 Datetime
 
 https://stackoverflow.com/questions/38067704/how-to-change-the-datetime-format-in-pandas
+
+Reindex
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reindex.html
