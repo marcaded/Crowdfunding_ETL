@@ -2,7 +2,7 @@
 
 For this project we worked separately over the weekend and came back to collaborate during class. Between the two days of class we were able to complete the notebook and create the SQL schema in quick db.
 
-We were able to have most of our questions answered during class and office hours. We also referenced the links below.
+We were able to have most of our questions answered during class and office hours. Specifically Richard was a big help with the Json section of the notebook. We also referenced the links below.
 
 Iterrows
 
