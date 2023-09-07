@@ -19,3 +19,8 @@ https://stackoverflow.com/questions/38067704/how-to-change-the-datetime-format-i
 Reindex
 
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.reindex.html
+
+Varchar vs String
+
+https://stackoverflow.com/questions/41136136/what-is-the-difference-between-varchar-and-string-in-sqlalchemys-data-type#:~:text=Use%20varchar%20if%20you%20want,the%20length%20of%20the%20text
+
